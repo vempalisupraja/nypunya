@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<head>
+
+<title>Nypunya 2k19
+</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<style>
+</style>
+<body>
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">Nypunya</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li><a href="#">Rules</a></li>
+       <li><a href="#">Contact</a></li>
+    </ul>
+  </div>
+</nav>
+<br>
+<br>
+<br>
+<div class = "row" style="background-color:lightgreen">
+<<div class = "column">
+<img src="vishnu.bmp" alt="Flowers in Chania" width="175" height="155">
+</div>
+<div class = "column">
+<h1><center>BVRIT HYDERABAD College of Engineering for Women</center></h1>
+</div>
+</div>
+<div style="background-color:orange">
+<h2>Proudly presents "Nypunya 2k19"<br>
+A National Level Inter Engineering Collegiate Sports Meet<br>
+On 29 & 30th January 2019</h2>
+</div>
+<marquee behavior="scroll" direction="left" height="70" bgcolor="#89e3f0">
+<h2><font face = "Comic sans MS" >Welcome to Nypunya 2019!!!</font></h2>
+</marquee>
+
+<h2>List Of Events</h2>
+<table>
+<tr bgcolor="#00FF00">
+<th>Name of Event</th>
+</tr>
+<tr>
+<td>Volley Ball
+</td></tr>
+</table>
+</body>
+</html>
