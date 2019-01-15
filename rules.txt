@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <head>
 <title>Rules and regulations</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 <body>
 
@@ -13,7 +14,7 @@
 <li>All the competitions will be conducted only for women.</li>
 <li>All the draws /fixtures and the events schedule will be given at the help desk.</li>
 <li>Students pursuing  B.Tech, M.Tech, M.B.A only are eligible to participate in the competitions.</li>
-<li>No common players for the three events (Volley Ball, Throw Ball, Kho – Kho and Kabaddi) as these matches are organized simultaneously.</li>
+<li>No common players for the three events (Volley Ball, Throw Ball, Kho Kho and Kabaddi) as these matches are organized simultaneously.</li>
 <li>Teams and players must report 30 minutes in advance to the scheduled match time.</li>
 <li>All the participants must carry their college ID cards without fail.</li>
 <li>Mandatory for all participating teams to bring their own sports kit / uniform for all the events.</li>
@@ -24,7 +25,7 @@
 <li>Announced Prize Money will be given only if minimum of 6 teams or 8 participants turn up. If not mementoes and certificates will be given.</li>
 <li>We also request you to carry an Institution Flag for march-past.</li>
 <li>The Inauguration of the meet will be at 9.30 AM on 29th  January 2019.</li>
-<li>Our college is a Women’s college, we request the participating colleges not to allow their boys to accompany them to avoid unwanted situations.</li>
+<li>Our college is a Womens college, we request the participating colleges not to allow their boys to accompany them to avoid unwanted situations.</li>
 <li>Please visit our college website <a href="www.bvrithyderabad.edu.in">www.bvrithyderabad.edu.in.</a></li>
 <li>Last date of registration :28thJanuary 2019</li>
 </ul>  
